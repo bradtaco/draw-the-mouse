@@ -1,2 +1,2 @@
-# fuck-the-mouse
-Fuck the Mouse: A celebration of public domain.
+# draw-the-mouse
+Draw the Mouse: A celebration of public domain.
